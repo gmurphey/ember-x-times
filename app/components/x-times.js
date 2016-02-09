@@ -1,0 +1,1 @@
+export { default } from 'ember-x-times/components/x-times';
