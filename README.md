@@ -2,6 +2,8 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+[![Build Status](https://travis-ci.org/gmurphey/ember-x-times.svg?branch=master)](https://travis-ci.org/gmurphey/ember-x-times)
+
 ## Installation
 
 * `git clone` this repository
