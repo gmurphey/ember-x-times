@@ -1,7 +1,7 @@
 {
   "name": "ember-x-times",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "A component that renders a given block x times",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/gmurphey/ember-x-times",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Garrett Murphey <gmurphey@gmurphey.com>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
